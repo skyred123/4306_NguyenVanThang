@@ -2,6 +2,9 @@
 
 <div align="center">
 
+### 🛠 Languages and Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,7 +28,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-# 📊GitHub Stats :
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=skyred123&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
 <!--     <br> -->
